@@ -1,0 +1,16 @@
+#index:
+#    path: /
+#    defaults: { _controller: 'App\Controller\DefaultController::index' }
+
+#app_notes :
+#     path:/notes
+#     controller: App\Controller\TodolistController::indexaction
+
+
+#app_ajout_note:
+#     path:/notes/ajouter
+#     controller: App\Controller\AjouterNote::ajouaction
+
+#test_page:
+#     path:\signup
+#     controller: App\Controller\TodolistController::testrout
